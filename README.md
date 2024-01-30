@@ -1,5 +1,10 @@
 # 📟 Pokedex
 
+## 🖼️ Como ficou o site
+
+Veja como o site ficou, ao vivo, [clicando aqui](https://pokemon-api-cards.vercel.app/ "Visitar o site da Pokedex").
+
+![2024-01-30-16-40-49](https://github.com/fabiobrasileiroo/pokemon-api-cards-/assets/99563281/6b9fe8ac-31fa-48d8-9222-ce2f5b33e1ef)
 ## 📃 Descrição
 
 Este projeto é baseado em uma *Pokedex*, que mostra todos os Pokemons da primeira geração. A requisição é feita através da `fetch API`, utilizando a API `pokeapi.co`.
@@ -24,11 +29,6 @@ Este projeto foi feito seguindo os cursos **Criando um Projeto com HTML/CSS para
     * `Request Body` que é o corpo de alguns tipos de requisição
     * `Status Code` que indica o que houve com a requisição
 
-## 🖼️ Imagem do site
-
-Veja como o site ficou, ao vivo, [clicando aqui](https://pokemon-api-cards.vercel.app/ "Visitar o site da Pokedex").
-
-![2024-01-30-16-40-49](https://github.com/fabiobrasileiroo/pokemon-api-cards-/assets/99563281/6b9fe8ac-31fa-48d8-9222-ce2f5b33e1ef)
 ## 📌 Mais informações
 
 Este projeto faz parte da trilha de Javascript do bootcamp **NTT DATA Diversidade em Tech** da **Digital Innovation One**. O mesmo projeto postado no Github foi entregue, como pedido, na plataforma da DIO.
